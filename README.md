@@ -94,39 +94,6 @@ A comprehensive civic engagement platform designed specifically for Bangladeshi 
 - **Input Validation**: Comprehensive form validation
 - **Session Management**: Secure user sessions
 
-## 👨‍💼 Our Team
-
-### Core Team (6 Members)
-
-1. **Logno Hassan** - Founder & CEO
-   - Email: lognohassan@gmail.com
-   - Phone: +880 1798 585 919
-   - Expertise: Project Management, Community Development
-
-2. **Ahmed Rahman** - Technical Lead
-   - Email: ahmed.rahman@civicaid.bd
-   - Phone: +880 1711 234 567
-   - Expertise: Software Development, System Architecture
-
-3. **Fatima Khan** - Community Outreach Manager
-   - Email: fatima.khan@civicaid.bd
-   - Phone: +880 1812 345 678
-   - Expertise: Community Relations, Partnership Development
-
-4. **Mohammad Ali** - Operations Manager
-   - Email: mohammad.ali@civicaid.bd
-   - Phone: +880 1913 456 789
-   - Expertise: Operations Management, Process Optimization
-
-5. **Sadia Islam** - User Experience Designer
-   - Email: sadia.islam@civicaid.bd
-   - Phone: +880 1614 567 890
-   - Expertise: UX/UI Design, Accessibility
-
-6. **Rashid Ahmed** - Data Analyst
-   - Email: rashid.ahmed@civicaid.bd
-   - Phone: +880 1515 678 901
-   - Expertise: Data Analysis, Performance Metrics
 
 ## 📞 Contact Information
 
